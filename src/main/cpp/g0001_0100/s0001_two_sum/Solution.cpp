@@ -1,18 +1,21 @@
 // #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table
 // #Data_Structure_I_Day_2_Array #Level_1_Day_13_Hashmap #Udemy_Arrays #Big_O_Time_O(n)_Space_O(n)
-// #2024_05_12_Time_8_ms_(79.20%)_Space_13.5_MB_(49.33%)
+// #2024_05_12_Time_4_ms_(94.42%)_Space_14.1_MB_(17.14%)
+
+#include <vector>
+#include <unordered_map>
 
 class Solution {
 public:
-    map<int,int> mp;
-    vector<int> twoSum(vector<int>& nums, int target) {
-        for (int i = 0; i < nums.size(); i++) {
-            if (mp.find(nums[i]) != mp.end()) {
-                return {mp[nums[i]], i};
-            } else {
-                mp[target-nums[i]] = i;
+    std::vector<int> twoSum(std::vector<int>& numbers, int target) {
+        std::unordered_map<int, int> indexMap;
+        for (int i = 0; i < numbers.size(); i++) {
+            int requiredNum = target - numbers[i];
+            if (indexMap.find(requiredNum) != indexMap.end()) {
+                return {indexMap[requiredNum], i};
             }
+            indexMap[numbers[i]] = i;
         }
-        return {};
+        return {-1, -1};
     }
 };

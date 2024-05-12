@@ -1,6 +1,6 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Math #Linked_List #Recursion
 // #Data_Structure_II_Day_10_Linked_List #Programming_Skills_II_Day_15
-// #Big_O_Time_O(max(N,M))_Space_O(max(N,M)) #2024_05_12_Time_15_ms_(87.75%)_Space_75.4_MB_(99.46%)
+// #Big_O_Time_O(max(N,M))_Space_O(max(N,M)) #2024_05_12_Time_16_ms_(82.17%)_Space_76.1_MB_(52.68%)
 
 /**
  * Definition for singly-linked list.
@@ -15,51 +15,28 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* copy1=l1;
-        ListNode* copy2=l2;
-        int sum = 0, carry = 0;
-        while (copy1 && copy2) {
-            sum = copy1->val + copy2->val + carry;
+        ListNode* dummyHead = new ListNode(0);
+        ListNode* p = l1;
+        ListNode* q = l2;
+        ListNode* curr = dummyHead;
+        int carry = 0;
+        while (p != nullptr || q != nullptr) {
+            int x = (p != nullptr) ? p->val : 0;
+            int y = (q != nullptr) ? q->val : 0;
+            int sum = carry + x + y;
             carry = sum / 10;
-            copy1->val = sum % 10;
-            if (!copy1->next && !copy2->next && carry) {
-                copy1->next = new ListNode(1);
-                copy1 = NULL;
-                break;
+            curr->next = new ListNode(sum % 10);
+            curr = curr->next;
+            if (p != nullptr) {
+                p = p->next;
             }
-            if (!copy1->next && copy2->next) {
-                copy1->next = copy2->next;
-                copy2 = copy2->next;
-                copy1 = NULL;
-                break;
+            if (q != nullptr) {
+                q = q->next;
             }
-            copy1=copy1->next;
-            copy2=copy2->next;
         }
-        while (copy1) {
-            if (!carry)
-                break;
-            sum = copy1->val + carry;
-            carry = sum / 10;
-            copy1->val = sum % 10;
-            if (!copy1->next && carry) {
-                copy1->next = new ListNode(1);
-                break;
-            }
-            copy1 = copy1->next;
+        if (carry > 0) {
+            curr->next = new ListNode(carry);
         }
-        while(copy2) {
-            if (!carry)
-                break;
-            sum = copy2->val + carry;
-            carry = sum / 10;
-            copy2->val = sum % 10;
-            if (!copy2->next && carry){
-                copy2->next = new ListNode(1);
-                break;
-            }
-            copy2 = copy2->next;
-        }
-        return l1;
+        return dummyHead->next;
     }
 };
