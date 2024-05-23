@@ -164,6 +164,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0021 |[Merge Two Sorted Lists](src/main/cpp/g0001_0100/s0021_merge_two_sorted_lists/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
 
 #### Day 4 Linked List
 
@@ -244,6 +245,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0019 |[Remove Nth Node From End of List](src/main/cpp/g0001_0100/s0019_remove_nth_node_from_end_of_list/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Big_O_Time_O(L)_Space_O(L) | 0 | 100.00
 
 #### Day 4 Linked List
 
@@ -341,12 +343,15 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0007 |[Reverse Integer](src/main/cpp/g0001_0100/s0007_reverse_integer/Solution.cpp)| Medium | Top_Interview_Questions, Math | 0 | 100.00
+| 0009 |[Palindrome Number](src/main/cpp/g0001_0100/s0009_palindrome_number/Solution.cpp)| Easy | Math | 0 | 100.00
 
 #### Udemy Strings
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0003 |[Longest Substring Without Repeating Characters](src/main/cpp/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1) | 5 | 86.87
+| 0020 |[Valid Parentheses](src/main/cpp/g0001_0100/s0020_valid_parentheses/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0005 |[Longest Palindromic Substring](src/main/cpp/g0001_0100/s0005_longest_palindromic_substring/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 7 | 94.72
 | 0394 |[Decode String](src/main/cpp/g0301_0400/s0394_decode_string/Solution.cpp)| Medium | Top_100_Liked_Questions, String, Stack, Recursion, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 
@@ -386,6 +391,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0021 |[Merge Two Sorted Lists](src/main/cpp/g0001_0100/s0021_merge_two_sorted_lists/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
 
 #### Udemy Tree Stack Queue
 
@@ -415,6 +421,8 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0022 |[Generate Parentheses](src/main/cpp/g0001_0100/s0022_generate_parentheses/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 0 | 100.00
+| 0017 |[Letter Combinations of a Phone Number](src/main/cpp/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
 
 #### Udemy Bit Manipulation
 
@@ -464,6 +472,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0021 |[Merge Two Sorted Lists](src/main/cpp/g0001_0100/s0021_merge_two_sorted_lists/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
 
 #### Day 8 Linked List
 
@@ -474,6 +483,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0020 |[Valid Parentheses](src/main/cpp/g0001_0100/s0020_valid_parentheses/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 
 #### Day 10 Tree
 
@@ -639,6 +649,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0019 |[Remove Nth Node From End of List](src/main/cpp/g0001_0100/s0019_remove_nth_node_from_end_of_list/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Big_O_Time_O(L)_Space_O(L) | 0 | 100.00
 
 #### Day 6 Sliding Window
 
@@ -665,6 +676,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0021 |[Merge Two Sorted Lists](src/main/cpp/g0001_0100/s0021_merge_two_sorted_lists/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
 
 #### Day 11 Recursion Backtracking
 
@@ -745,6 +757,8 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0017 |[Letter Combinations of a Phone Number](src/main/cpp/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
+| 0022 |[Generate Parentheses](src/main/cpp/g0001_0100/s0022_generate_parentheses/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 0 | 100.00
 
 #### Day 12 Dynamic Programming
 
@@ -1262,9 +1276,19 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 | 0338 |[Counting Bits](src/main/cpp/g0301_0400/s0338_counting_bits/Solution.cpp)| Easy | Dynamic_Programming, Bit_Manipulation, Udemy_Bit_Manipulation, Big_O_Time_O(num)_Space_O(num) | 0 | 100.00
 | 0322 |[Coin Change](src/main/cpp/g0301_0400/s0322_coin_change/Solution.cpp)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Breadth_First_Search, Algorithm_II_Day_18_Dynamic_Programming, Dynamic_Programming_I_Day_20, Level_2_Day_12_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(amount) | 12 | 97.65
 | 0300 |[Longest Increasing Subsequence](src/main/cpp/g0201_0300/s0300_longest_increasing_subsequence/Solution.cpp)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Algorithm_II_Day_16_Dynamic_Programming, Binary_Search_II_Day_3, Dynamic_Programming_I_Day_18, Udemy_Dynamic_Programming, Big_O_Time_O(n\*log_n)_Space_O(n) | 4 | 94.11
+| 0023 |[Merge k Sorted Lists](src/main/cpp/g0001_0100/s0023_merge_k_sorted_lists/Solution.cpp)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Heap_Priority_Queue, Linked_List, Divide_and_Conquer, Merge_Sort, Big_O_Time_O(k\*n\*log(k))_Space_O(log(k)) | 7 | 98.72
+| 0022 |[Generate Parentheses](src/main/cpp/g0001_0100/s0022_generate_parentheses/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Algorithm_II_Day_11_Recursion_Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(2^n)_Space_O(n) | 0 | 100.00
+| 0021 |[Merge Two Sorted Lists](src/main/cpp/g0001_0100/s0021_merge_two_sorted_lists/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Data_Structure_I_Day_7_Linked_List, Algorithm_I_Day_10_Recursion_Backtracking, Level_1_Day_3_Linked_List, Udemy_Linked_List, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
+| 0020 |[Valid Parentheses](src/main/cpp/g0001_0100/s0020_valid_parentheses/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Data_Structure_I_Day_9_Stack_Queue, Udemy_Strings, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0019 |[Remove Nth Node From End of List](src/main/cpp/g0001_0100/s0019_remove_nth_node_from_end_of_list/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Algorithm_I_Day_5_Two_Pointers, Level_2_Day_3_Linked_List, Big_O_Time_O(L)_Space_O(L) | 0 | 100.00
+| 0017 |[Letter Combinations of a Phone Number](src/main/cpp/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Algorithm_II_Day_11_Recursion_Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
 | 0015 |[3Sum](src/main/cpp/g0001_0100/s0015_3sum/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Data_Structure_II_Day_1_Array, Algorithm_II_Day_3_Two_Pointers, Udemy_Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 53 | 90.17
 | 0011 |[Container With Most Water](src/main/cpp/g0001_0100/s0011_container_with_most_water/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Greedy, Two_Pointers, Algorithm_II_Day_4_Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 54 | 88.17
 | 0010 |[Regular Expression Matching](src/main/cpp/g0001_0100/s0010_regular_expression_matching/Solution.cpp)| Hard | Top_Interview_Questions, String, Dynamic_Programming, Recursion, Udemy_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
+| 0009 |[Palindrome Number](src/main/cpp/g0001_0100/s0009_palindrome_number/Solution.cpp)| Easy | Math, Udemy_Integers | 0 | 100.00
+| 0008 |[String to Integer (atoi)](src/main/cpp/g0001_0100/s0008_string_to_integer_atoi/Solution.cpp)| Medium | Top_Interview_Questions, String | 0 | 100.00
+| 0007 |[Reverse Integer](src/main/cpp/g0001_0100/s0007_reverse_integer/Solution.cpp)| Medium | Top_Interview_Questions, Math, Udemy_Integers | 0 | 100.00
+| 0006 |[Zigzag Conversion](src/main/cpp/g0001_0100/s0006_zigzag_conversion/Solution.cpp)| Medium | String | 3 | 97.69
 | 0005 |[Longest Palindromic Substring](src/main/cpp/g0001_0100/s0005_longest_palindromic_substring/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Data_Structure_II_Day_9_String, Algorithm_II_Day_14_Dynamic_Programming, Dynamic_Programming_I_Day_17, Udemy_Strings, Big_O_Time_O(n)_Space_O(n) | 7 | 94.72
 | 0004 |[Median of Two Sorted Arrays](src/main/cpp/g0001_0100/s0004_median_of_two_sorted_arrays/Solution.cpp)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Divide_and_Conquer, Big_O_Time_O(log(min(N,M)))_Space_O(1) | 19 | 85.75
 | 0003 |[Longest Substring Without Repeating Characters](src/main/cpp/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Algorithm_I_Day_6_Sliding_Window, Level_2_Day_14_Sliding_Window/Two_Pointer, Udemy_Strings, Big_O_Time_O(n)_Space_O(1) | 5 | 86.87
