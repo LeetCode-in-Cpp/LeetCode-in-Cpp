@@ -2,7 +2,11 @@
 // #Divide_and_Conquer #Merge_Sort #Big_O_Time_O(k*n*log(k))_Space_O(log(k))
 // #2024_05_23_Time_7_ms_(98.72%)_Space_16.5_MB_(98.90%)
 
-/*
+#include <vector>
+
+using namespace std;
+
+/**
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
@@ -12,10 +16,6 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-#include <vector>
-
-using namespace std;
-
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
