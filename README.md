@@ -275,6 +275,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0033 |[Search in Rotated Sorted Array](src/main/cpp/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 9 Binary Search Tree
 
@@ -339,6 +340,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0039 |[Combination Sum](src/main/cpp/g0001_0100/s0039_combination_sum/Solution.cpp)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 0 | 100.00
 
 ### Udemy
 
@@ -362,6 +364,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0033 |[Search in Rotated Sorted Array](src/main/cpp/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Udemy Arrays
 
@@ -370,12 +373,14 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 | 0283 |[Move Zeroes](src/main/cpp/g0201_0300/s0283_move_zeroes/Solution.cpp)| Easy | Top_100_Liked_Questions, Array, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 6 | 98.89
 | 0001 |[Two Sum](src/main/cpp/g0001_0100/s0001_two_sum/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 4 | 94.42
 | 0238 |[Product of Array Except Self](src/main/cpp/g0201_0300/s0238_product_of_array_except_self/Solution.cpp)| Medium | Top_100_Liked_Questions, Array, Prefix_Sum, Big_O_Time_O(n^2)_Space_O(n) | 21 | 88.52
+| 0041 |[First Missing Positive](src/main/cpp/g0001_0100/s0041_first_missing_positive/Solution.cpp)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 42 | 69.19
 | 0239 |[Sliding Window Maximum](src/main/cpp/g0201_0300/s0239_sliding_window_maximum/Solution.cpp)| Hard | Top_100_Liked_Questions, Array, Heap_Priority_Queue, Sliding_Window, Queue, Monotonic_Queue, Big_O_Time_O(n\*k)_Space_O(n+k) | 164 | 80.55
 
 #### Udemy Two Pointers
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0042 |[Trapping Rain Water](src/main/cpp/g0001_0100/s0042_trapping_rain_water/Solution.cpp)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1) | 3 | 99.04
 | 0015 |[3Sum](src/main/cpp/g0001_0100/s0015_3sum/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 53 | 90.17
 
 #### Udemy Famous Algorithm
@@ -397,8 +402,10 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0024 |[Swap Nodes in Pairs](src/main/cpp/g0001_0100/s0024_swap_nodes_in_pairs/Solution.cpp)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0021 |[Merge Two Sorted Lists](src/main/cpp/g0001_0100/s0021_merge_two_sorted_lists/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
 | 0234 |[Palindrome Linked List](src/main/cpp/g0201_0300/s0234_palindrome_linked_list/Solution.cpp)| Easy | Top_100_Liked_Questions, Two_Pointers, Stack, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 154 | 83.63
+| 0025 |[Reverse Nodes in k-Group](src/main/cpp/g0001_0100/s0025_reverse_nodes_in_k_group/Solution.cpp)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 3 | 98.79
 
 #### Udemy Tree Stack Queue
 
@@ -431,6 +438,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0022 |[Generate Parentheses](src/main/cpp/g0001_0100/s0022_generate_parentheses/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 0 | 100.00
+| 0039 |[Combination Sum](src/main/cpp/g0001_0100/s0039_combination_sum/Solution.cpp)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 0 | 100.00
 | 0017 |[Letter Combinations of a Phone Number](src/main/cpp/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
 
 #### Udemy Bit Manipulation
@@ -588,11 +596,13 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0024 |[Swap Nodes in Pairs](src/main/cpp/g0001_0100/s0024_swap_nodes_in_pairs/Solution.cpp)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 
 #### Day 13 Linked List
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0025 |[Reverse Nodes in k-Group](src/main/cpp/g0001_0100/s0025_reverse_nodes_in_k_group/Solution.cpp)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 3 | 98.79
 
 #### Day 14 Stack Queue
 
@@ -643,6 +653,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0035 |[Search Insert Position](src/main/cpp/g0001_0100/s0035_search_insert_position/Solution.cpp)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 2 Two Pointers
 
@@ -719,6 +730,8 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0034 |[Find First and Last Position of Element in Sorted Array](src/main/cpp/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0033 |[Search in Rotated Sorted Array](src/main/cpp/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 2 Binary Search
 
@@ -767,6 +780,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0039 |[Combination Sum](src/main/cpp/g0001_0100/s0039_combination_sum/Solution.cpp)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 0 | 100.00
 
 #### Day 11 Recursion Backtracking
 
@@ -840,6 +854,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0035 |[Search Insert Position](src/main/cpp/g0001_0100/s0035_search_insert_position/Solution.cpp)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 3
 
@@ -855,6 +870,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0034 |[Find First and Last Position of Element in Sorted Array](src/main/cpp/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 6
 
@@ -885,6 +901,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0033 |[Search in Rotated Sorted Array](src/main/cpp/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 12
 
@@ -1042,6 +1059,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0042 |[Trapping Rain Water](src/main/cpp/g0001_0100/s0042_trapping_rain_water/Solution.cpp)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1) | 3 | 99.04
 
 #### Day 10
 
@@ -1304,6 +1322,16 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 | 0234 |[Palindrome Linked List](src/main/cpp/g0201_0300/s0234_palindrome_linked_list/Solution.cpp)| Easy | Top_100_Liked_Questions, Two_Pointers, Stack, Linked_List, Recursion, Level_2_Day_3_Linked_List, Udemy_Linked_List, Big_O_Time_O(n)_Space_O(1) | 154 | 83.63
 | 0230 |[Kth Smallest Element in a BST](src/main/cpp/g0201_0300/s0230_kth_smallest_element_in_a_bst/Solution.cpp)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Data_Structure_II_Day_17_Tree, Level_2_Day_9_Binary_Search_Tree, Big_O_Time_O(n)_Space_O(n) | 7 | 94.52
 | 0226 |[Invert Binary Tree](src/main/cpp/g0201_0300/s0226_invert_binary_tree/Solution.cpp)| Easy | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_12_Tree, Level_2_Day_6_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(n)_Space_O(n) | 2 | 45.75
+| 0042 |[Trapping Rain Water](src/main/cpp/g0001_0100/s0042_trapping_rain_water/Solution.cpp)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Dynamic_Programming_I_Day_9, Udemy_Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 3 | 99.04
+| 0041 |[First Missing Positive](src/main/cpp/g0001_0100/s0041_first_missing_positive/Solution.cpp)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Udemy_Arrays, Big_O_Time_O(n)_Space_O(n) | 42 | 69.19
+| 0039 |[Combination Sum](src/main/cpp/g0001_0100/s0039_combination_sum/Solution.cpp)| Medium | Top_100_Liked_Questions, Array, Backtracking, Algorithm_II_Day_10_Recursion_Backtracking, Level_2_Day_20_Brute_Force/Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(2^n)_Space_O(n+2^n) | 0 | 100.00
+| 0035 |[Search Insert Position](src/main/cpp/g0001_0100/s0035_search_insert_position/Solution.cpp)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Algorithm_I_Day_1_Binary_Search, Binary_Search_I_Day_2, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0034 |[Find First and Last Position of Element in Sorted Array](src/main/cpp/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Algorithm_II_Day_1_Binary_Search, Binary_Search_I_Day_5, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0033 |[Search in Rotated Sorted Array](src/main/cpp/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Algorithm_II_Day_1_Binary_Search, Binary_Search_I_Day_11, Level_2_Day_8_Binary_Search, Udemy_Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0032 |[Longest Valid Parentheses](src/main/cpp/g0001_0100/s0032_longest_valid_parentheses/Solution.cpp)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Stack, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0031 |[Next Permutation](src/main/cpp/g0001_0100/s0031_next_permutation/Solution.cpp)| Medium | Top_100_Liked_Questions, Array, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0025 |[Reverse Nodes in k-Group](src/main/cpp/g0001_0100/s0025_reverse_nodes_in_k_group/Solution.cpp)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Data_Structure_II_Day_13_Linked_List, Udemy_Linked_List, Big_O_Time_O(n)_Space_O(k) | 3 | 98.79
+| 0024 |[Swap Nodes in Pairs](src/main/cpp/g0001_0100/s0024_swap_nodes_in_pairs/Solution.cpp)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Data_Structure_II_Day_12_Linked_List, Udemy_Linked_List, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0023 |[Merge k Sorted Lists](src/main/cpp/g0001_0100/s0023_merge_k_sorted_lists/Solution.cpp)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Heap_Priority_Queue, Linked_List, Divide_and_Conquer, Merge_Sort, Big_O_Time_O(k\*n\*log(k))_Space_O(log(k)) | 7 | 98.72
 | 0022 |[Generate Parentheses](src/main/cpp/g0001_0100/s0022_generate_parentheses/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Algorithm_II_Day_11_Recursion_Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(2^n)_Space_O(n) | 0 | 100.00
 | 0021 |[Merge Two Sorted Lists](src/main/cpp/g0001_0100/s0021_merge_two_sorted_lists/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Data_Structure_I_Day_7_Linked_List, Algorithm_I_Day_10_Recursion_Backtracking, Level_1_Day_3_Linked_List, Udemy_Linked_List, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
