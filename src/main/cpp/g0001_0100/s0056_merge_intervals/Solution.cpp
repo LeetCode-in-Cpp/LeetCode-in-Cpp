@@ -8,12 +8,14 @@ public:
         vector<vector<int>> ans;
         sort(intervals.begin(), intervals.end());
         vector<int> lastInterval = intervals[0];
-        for (int i = 1; i < intervals.size(); ++i)
+        for (int i = 1; i < intervals.size(); i++) {
             if (intervals[i][0] > lastInterval[1]){
                 ans.push_back(lastInterval);
                 lastInterval = intervals[i];
+            } else {
+                lastInterval[1] = max(lastInterval[1], intervals[i][1]);
             }
-            else lastInterval[1] = max(lastInterval[1], intervals[i][1]);
+        }
         ans.push_back(lastInterval);
         return ans;
     }
