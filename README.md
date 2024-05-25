@@ -205,6 +205,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0062 |[Unique Paths](src/main/cpp/g0001_0100/s0062_unique_paths/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 
 #### Day 12 Sliding Window/Two Pointer
 
@@ -325,6 +326,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0056 |[Merge Intervals](src/main/cpp/g0001_0100/s0056_merge_intervals/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Big_O_Time_O(n_log_n)_Space_O(n) | 19 | 85.51
 
 #### Day 18 Stack
 
@@ -341,6 +343,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0039 |[Combination Sum](src/main/cpp/g0001_0100/s0039_combination_sum/Solution.cpp)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 0 | 100.00
+| 0046 |[Permutations](src/main/cpp/g0001_0100/s0046_permutations/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 0 | 100.00
 
 ### Udemy
 
@@ -359,6 +362,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 | 0020 |[Valid Parentheses](src/main/cpp/g0001_0100/s0020_valid_parentheses/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0005 |[Longest Palindromic Substring](src/main/cpp/g0001_0100/s0005_longest_palindromic_substring/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 7 | 94.72
 | 0394 |[Decode String](src/main/cpp/g0301_0400/s0394_decode_string/Solution.cpp)| Medium | Top_100_Liked_Questions, String, Stack, Recursion, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0049 |[Group Anagrams](src/main/cpp/g0001_0100/s0049_group_anagrams/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 18 | 96.16
 
 #### Udemy Binary Search
 
@@ -372,6 +376,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 |-|-|-|-|-|-
 | 0283 |[Move Zeroes](src/main/cpp/g0201_0300/s0283_move_zeroes/Solution.cpp)| Easy | Top_100_Liked_Questions, Array, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 6 | 98.89
 | 0001 |[Two Sum](src/main/cpp/g0001_0100/s0001_two_sum/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 4 | 94.42
+| 0055 |[Jump Game](src/main/cpp/g0001_0100/s0055_jump_game/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 31 | 96.95
 | 0238 |[Product of Array Except Self](src/main/cpp/g0201_0300/s0238_product_of_array_except_self/Solution.cpp)| Medium | Top_100_Liked_Questions, Array, Prefix_Sum, Big_O_Time_O(n^2)_Space_O(n) | 21 | 88.52
 | 0041 |[First Missing Positive](src/main/cpp/g0001_0100/s0041_first_missing_positive/Solution.cpp)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 42 | 69.19
 | 0239 |[Sliding Window Maximum](src/main/cpp/g0201_0300/s0239_sliding_window_maximum/Solution.cpp)| Hard | Top_100_Liked_Questions, Array, Heap_Priority_Queue, Sliding_Window, Queue, Monotonic_Queue, Big_O_Time_O(n\*k)_Space_O(n+k) | 164 | 80.55
@@ -387,6 +392,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0053 |[Maximum Subarray](src/main/cpp/g0001_0100/s0053_maximum_subarray/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 65 | 93.14
 
 #### Udemy Sorting Algorithms
 
@@ -397,6 +403,8 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0048 |[Rotate Image](src/main/cpp/g0001_0100/s0048_rotate_image/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 0 | 100.00
+| 0056 |[Merge Intervals](src/main/cpp/g0001_0100/s0056_merge_intervals/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Big_O_Time_O(n_log_n)_Space_O(n) | 19 | 85.51
 
 #### Udemy Linked List
 
@@ -429,6 +437,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0064 |[Minimum Path Sum](src/main/cpp/g0001_0100/s0064_minimum_path_sum/Solution.cpp)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 2 | 95.63
 | 0300 |[Longest Increasing Subsequence](src/main/cpp/g0201_0300/s0300_longest_increasing_subsequence/Solution.cpp)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 4 | 94.11
 | 1143 |[Longest Common Subsequence](src/main/cpp/g1101_1200/s1143_longest_common_subsequence/Solution.cpp)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 23 | 62.70
 | 0010 |[Regular Expression Matching](src/main/cpp/g0001_0100/s0010_regular_expression_matching/Solution.cpp)| Hard | Top_Interview_Questions, String, Dynamic_Programming, Recursion, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
@@ -440,6 +449,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 | 0022 |[Generate Parentheses](src/main/cpp/g0001_0100/s0022_generate_parentheses/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 0 | 100.00
 | 0039 |[Combination Sum](src/main/cpp/g0001_0100/s0039_combination_sum/Solution.cpp)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 0 | 100.00
 | 0017 |[Letter Combinations of a Phone Number](src/main/cpp/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
+| 0046 |[Permutations](src/main/cpp/g0001_0100/s0046_permutations/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 0 | 100.00
 
 #### Udemy Bit Manipulation
 
@@ -458,6 +468,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0053 |[Maximum Subarray](src/main/cpp/g0001_0100/s0053_maximum_subarray/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 65 | 93.14
 
 #### Day 2 Array
 
@@ -540,11 +551,13 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0056 |[Merge Intervals](src/main/cpp/g0001_0100/s0056_merge_intervals/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Big_O_Time_O(n_log_n)_Space_O(n) | 19 | 85.51
 
 #### Day 3 Array
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0048 |[Rotate Image](src/main/cpp/g0001_0100/s0048_rotate_image/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 0 | 100.00
 
 #### Day 4 Array
 
@@ -574,6 +587,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0049 |[Group Anagrams](src/main/cpp/g0001_0100/s0049_group_anagrams/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 18 | 96.16
 
 #### Day 9 String
 
@@ -708,6 +722,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0046 |[Permutations](src/main/cpp/g0001_0100/s0046_permutations/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 0 | 100.00
 
 #### Day 12 Dynamic Programming
 
@@ -793,11 +808,14 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0055 |[Jump Game](src/main/cpp/g0001_0100/s0055_jump_game/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 31 | 96.95
 
 #### Day 13 Dynamic Programming
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0045 |[Jump Game II](src/main/cpp/g0001_0100/s0045_jump_game_ii/Solution.cpp)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 8 | 82.92
+| 0062 |[Unique Paths](src/main/cpp/g0001_0100/s0062_unique_paths/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 
 #### Day 14 Dynamic Programming
 
@@ -1034,11 +1052,14 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0055 |[Jump Game](src/main/cpp/g0001_0100/s0055_jump_game/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 31 | 96.95
+| 0045 |[Jump Game II](src/main/cpp/g0001_0100/s0045_jump_game_ii/Solution.cpp)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 8 | 82.92
 
 #### Day 5
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0053 |[Maximum Subarray](src/main/cpp/g0001_0100/s0053_maximum_subarray/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 65 | 93.14
 
 #### Day 6
 
@@ -1090,11 +1111,13 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0062 |[Unique Paths](src/main/cpp/g0001_0100/s0062_unique_paths/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 
 #### Day 16
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0064 |[Minimum Path Sum](src/main/cpp/g0001_0100/s0064_minimum_path_sum/Solution.cpp)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 2 | 95.63
 
 #### Day 17
 
@@ -1225,6 +1248,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0048 |[Rotate Image](src/main/cpp/g0001_0100/s0048_rotate_image/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 0 | 100.00
 
 #### Day 8
 
@@ -1245,6 +1269,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0049 |[Group Anagrams](src/main/cpp/g0001_0100/s0049_group_anagrams/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 18 | 96.16
 
 #### Day 12
 
@@ -1322,6 +1347,16 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 | 0234 |[Palindrome Linked List](src/main/cpp/g0201_0300/s0234_palindrome_linked_list/Solution.cpp)| Easy | Top_100_Liked_Questions, Two_Pointers, Stack, Linked_List, Recursion, Level_2_Day_3_Linked_List, Udemy_Linked_List, Big_O_Time_O(n)_Space_O(1) | 154 | 83.63
 | 0230 |[Kth Smallest Element in a BST](src/main/cpp/g0201_0300/s0230_kth_smallest_element_in_a_bst/Solution.cpp)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Data_Structure_II_Day_17_Tree, Level_2_Day_9_Binary_Search_Tree, Big_O_Time_O(n)_Space_O(n) | 7 | 94.52
 | 0226 |[Invert Binary Tree](src/main/cpp/g0201_0300/s0226_invert_binary_tree/Solution.cpp)| Easy | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_12_Tree, Level_2_Day_6_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(n)_Space_O(n) | 2 | 45.75
+| 0064 |[Minimum Path Sum](src/main/cpp/g0001_0100/s0064_minimum_path_sum/Solution.cpp)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Dynamic_Programming_I_Day_16, Udemy_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(m\*n) | 2 | 95.63
+| 0062 |[Unique Paths](src/main/cpp/g0001_0100/s0062_unique_paths/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Algorithm_II_Day_13_Dynamic_Programming, Dynamic_Programming_I_Day_15, Level_1_Day_11_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
+| 0056 |[Merge Intervals](src/main/cpp/g0001_0100/s0056_merge_intervals/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Data_Structure_II_Day_2_Array, Level_2_Day_17_Interval, Udemy_2D_Arrays/Matrix, Big_O_Time_O(n_log_n)_Space_O(n) | 19 | 85.51
+| 0055 |[Jump Game](src/main/cpp/g0001_0100/s0055_jump_game/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Algorithm_II_Day_12_Dynamic_Programming, Dynamic_Programming_I_Day_4, Udemy_Arrays, Big_O_Time_O(n)_Space_O(1) | 31 | 96.95
+| 0053 |[Maximum Subarray](src/main/cpp/g0001_0100/s0053_maximum_subarray/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Data_Structure_I_Day_1_Array, Dynamic_Programming_I_Day_5, Udemy_Famous_Algorithm, Big_O_Time_O(n)_Space_O(1) | 65 | 93.14
+| 0051 |[N-Queens](src/main/cpp/g0001_0100/s0051_n_queens/Solution.cpp)| Hard | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(N!)_Space_O(N) | 3 | 80.52
+| 0049 |[Group Anagrams](src/main/cpp/g0001_0100/s0049_group_anagrams/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Data_Structure_II_Day_8_String, Programming_Skills_II_Day_11, Udemy_Strings, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 18 | 96.16
+| 0048 |[Rotate Image](src/main/cpp/g0001_0100/s0048_rotate_image/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Data_Structure_II_Day_3_Array, Programming_Skills_II_Day_7, Udemy_2D_Arrays/Matrix, Big_O_Time_O(n^2)_Space_O(1) | 0 | 100.00
+| 0046 |[Permutations](src/main/cpp/g0001_0100/s0046_permutations/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Algorithm_I_Day_11_Recursion_Backtracking, Level_2_Day_20_Brute_Force/Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 0 | 100.00
+| 0045 |[Jump Game II](src/main/cpp/g0001_0100/s0045_jump_game_ii/Solution.cpp)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Algorithm_II_Day_13_Dynamic_Programming, Dynamic_Programming_I_Day_4, Big_O_Time_O(n)_Space_O(1) | 8 | 82.92
 | 0042 |[Trapping Rain Water](src/main/cpp/g0001_0100/s0042_trapping_rain_water/Solution.cpp)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Dynamic_Programming_I_Day_9, Udemy_Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 3 | 99.04
 | 0041 |[First Missing Positive](src/main/cpp/g0001_0100/s0041_first_missing_positive/Solution.cpp)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Udemy_Arrays, Big_O_Time_O(n)_Space_O(n) | 42 | 69.19
 | 0039 |[Combination Sum](src/main/cpp/g0001_0100/s0039_combination_sum/Solution.cpp)| Medium | Top_100_Liked_Questions, Array, Backtracking, Algorithm_II_Day_10_Recursion_Backtracking, Level_2_Day_20_Brute_Force/Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(2^n)_Space_O(n+2^n) | 0 | 100.00
