@@ -3,7 +3,6 @@
 // #Big_O_Time_O(n)_Space_O(1) #2024_05_24_Time_3_ms_(99.04%)_Space_22.2_MB_(96.00%)
 
 #include <vector>
-
 using namespace std;
 
 class Solution {

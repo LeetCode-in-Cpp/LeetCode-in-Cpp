@@ -3,7 +3,6 @@
 // #2024_05_24_Time_0_ms_(100.00%)_Space_15.9_MB_(98.52%)
 
 #include <vector>
-
 using namespace std;
 
 class Solution {
