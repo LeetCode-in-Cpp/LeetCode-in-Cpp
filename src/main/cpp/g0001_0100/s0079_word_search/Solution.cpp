@@ -2,6 +2,8 @@
 // #Algorithm_II_Day_11_Recursion_Backtracking #Big_O_Time_O(4^(m*n))_Space_O(m*n)
 // #2024_05_26_Time_391_ms_(63.85%)_Space_10.8_MB_(51.48%)
 
+#include <vector>
+
 class Solution {
     static constexpr char TOMBSTONE = '#';
     
