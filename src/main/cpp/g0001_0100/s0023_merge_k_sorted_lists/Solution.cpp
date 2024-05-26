@@ -3,7 +3,6 @@
 // #2024_05_23_Time_7_ms_(98.72%)_Space_16.5_MB_(98.90%)
 
 #include <vector>
-
 using namespace std;
 
 /**
