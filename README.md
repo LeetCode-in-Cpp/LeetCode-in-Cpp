@@ -178,11 +178,13 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/cpp/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 69 | 96.21
 
 #### Day 6 Tree
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0102 |[Binary Tree Level Order Traversal](src/main/cpp/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 3 | 82.17
 
 #### Day 7 Binary Search
 
@@ -193,6 +195,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0098 |[Validate Binary Search Tree](src/main/cpp/g0001_0100/s0098_validate_binary_search_tree/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 3 | 97.92
 
 #### Day 9 Graph/BFS/DFS
 
@@ -326,6 +329,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0101 |[Symmetric Tree](src/main/cpp/g0101_0200/s0101_symmetric_tree/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 0 | 100.00
 
 #### Day 16 Design
 
@@ -388,6 +392,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/cpp/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 69 | 96.21
 | 0283 |[Move Zeroes](src/main/cpp/g0201_0300/s0283_move_zeroes/Solution.cpp)| Easy | Top_100_Liked_Questions, Array, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 6 | 98.89
 | 0001 |[Two Sum](src/main/cpp/g0001_0100/s0001_two_sum/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 4 | 94.42
 | 0189 |[Rotate Array](src/main/cpp/g0101_0200/s0189_rotate_array/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 18 | 77.84
@@ -429,6 +434,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0114 |[Flatten Binary Tree to Linked List](src/main/cpp/g0101_0200/s0114_flatten_binary_tree_to_linked_list/Solution.cpp)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Linked_List, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
 | 0024 |[Swap Nodes in Pairs](src/main/cpp/g0001_0100/s0024_swap_nodes_in_pairs/Solution.cpp)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0142 |[Linked List Cycle II](src/main/cpp/g0101_0200/s0142_linked_list_cycle_ii/Solution.cpp)| Medium | Top_100_Liked_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(N)_Space_O(1) | 9 | 47.48
 | 0141 |[Linked List Cycle](src/main/cpp/g0101_0200/s0141_linked_list_cycle/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(N)_Space_O(1) | 7 | 84.60
@@ -445,8 +451,12 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0094 |[Binary Tree Inorder Traversal](src/main/cpp/g0001_0100/s0094_binary_tree_inorder_traversal/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0102 |[Binary Tree Level Order Traversal](src/main/cpp/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 3 | 82.17
 | 0543 |[Diameter of Binary Tree](src/main/cpp/g0501_0600/s0543_diameter_of_binary_tree/Solution.cpp)| Easy | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 4 | 95.38
 | 0226 |[Invert Binary Tree](src/main/cpp/g0201_0300/s0226_invert_binary_tree/Solution.cpp)| Easy | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 2 | 45.75
+| 0104 |[Maximum Depth of Binary Tree](src/main/cpp/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 4 | 78.98
+| 0124 |[Binary Tree Maximum Path Sum](src/main/cpp/g0101_0200/s0124_binary_tree_maximum_path_sum/Solution.cpp)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 12 | 92.72
+| 0098 |[Validate Binary Search Tree](src/main/cpp/g0001_0100/s0098_validate_binary_search_tree/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 3 | 97.92
 | 0236 |[Lowest Common Ancestor of a Binary Tree](src/main/cpp/g0201_0300/s0236_lowest_common_ancestor_of_a_binary_tree/Solution.cpp)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 13 | 55.40
 
 #### Udemy Trie and Heap
@@ -515,6 +525,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/cpp/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 69 | 96.21
 
 #### Day 4 Array
 
@@ -561,6 +572,9 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0102 |[Binary Tree Level Order Traversal](src/main/cpp/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 3 | 82.17
+| 0104 |[Maximum Depth of Binary Tree](src/main/cpp/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 4 | 78.98
+| 0101 |[Symmetric Tree](src/main/cpp/g0101_0200/s0101_symmetric_tree/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 0 | 100.00
 
 #### Day 12 Tree
 
@@ -577,6 +591,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0098 |[Validate Binary Search Tree](src/main/cpp/g0001_0100/s0098_validate_binary_search_tree/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 3 | 97.92
 
 ### Data Structure II
 
@@ -672,6 +687,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/cpp/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Big_O_Time_O(N)_Space_O(N) | 3 | 99.30
 
 #### Day 16 Tree
 
@@ -1133,6 +1149,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/cpp/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 69 | 96.21
 
 #### Day 8
 
@@ -1155,6 +1172,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0096 |[Unique Binary Search Trees](src/main/cpp/g0001_0100/s0096_unique_binary_search_trees/Solution.cpp)| Medium | Dynamic_Programming, Math, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 
 #### Day 12
 
@@ -1266,6 +1284,7 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0104 |[Maximum Depth of Binary Tree](src/main/cpp/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 4 | 78.98
 
 #### Day 11 Containers and Libraries
 
@@ -1435,6 +1454,17 @@ Cpp-based LeetCode algorithm problem solutions, regularly updated.
 | 0139 |[Word Break](src/main/cpp/g0101_0200/s0139_word_break/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Algorithm_II_Day_15_Dynamic_Programming, Dynamic_Programming_I_Day_9, Udemy_Dynamic_Programming, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 5 | 70.91
 | 0138 |[Copy List with Random Pointer](src/main/cpp/g0101_0200/s0138_copy_list_with_random_pointer/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Programming_Skills_II_Day_14, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(N) | 5 | 65.69
 | 0136 |[Single Number](src/main/cpp/g0101_0200/s0136_single_number/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Data_Structure_II_Day_1_Array, Algorithm_I_Day_14_Bit_Manipulation, Udemy_Integers, Big_O_Time_O(N)_Space_O(1) | 11 | 82.25
+| 0131 |[Palindrome Partitioning](src/main/cpp/g0101_0200/s0131_palindrome_partitioning/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(N\*2^N)_Space_O(2^N\*N) | 69 | 83.20
+| 0128 |[Longest Consecutive Sequence](src/main/cpp/g0101_0200/s0128_longest_consecutive_sequence/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Union_Find, Big_O_Time_O(N_log_N)_Space_O(1) | 63 | 92.78
+| 0124 |[Binary Tree Maximum Path Sum](src/main/cpp/g0101_0200/s0124_binary_tree_maximum_path_sum/Solution.cpp)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(N) | 12 | 92.72
+| 0121 |[Best Time to Buy and Sell Stock](src/main/cpp/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Data_Structure_I_Day_3_Array, Dynamic_Programming_I_Day_7, Level_1_Day_5_Greedy, Udemy_Arrays, Big_O_Time_O(N)_Space_O(1) | 69 | 96.21
+| 0114 |[Flatten Binary Tree to Linked List](src/main/cpp/g0101_0200/s0114_flatten_binary_tree_to_linked_list/Solution.cpp)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
+| 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/cpp/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Data_Structure_II_Day_15_Tree, Big_O_Time_O(N)_Space_O(N) | 3 | 99.30
+| 0104 |[Maximum Depth of Binary Tree](src/main/cpp/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Programming_Skills_I_Day_10_Linked_List_and_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(H) | 4 | 78.98
+| 0102 |[Binary Tree Level Order Traversal](src/main/cpp/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Level_1_Day_6_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(N) | 3 | 82.17
+| 0101 |[Symmetric Tree](src/main/cpp/g0101_0200/s0101_symmetric_tree/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Level_2_Day_15_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 0 | 100.00
+| 0098 |[Validate Binary Search Tree](src/main/cpp/g0001_0100/s0098_validate_binary_search_tree/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Data_Structure_I_Day_14_Tree, Level_1_Day_8_Binary_Search_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(log(N)) | 3 | 97.92
+| 0096 |[Unique Binary Search Trees](src/main/cpp/g0001_0100/s0096_unique_binary_search_trees/Solution.cpp)| Medium | Dynamic_Programming, Math, Tree, Binary_Tree, Binary_Search_Tree, Dynamic_Programming_I_Day_11, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0094 |[Binary Tree Inorder Traversal](src/main/cpp/g0001_0100/s0094_binary_tree_inorder_traversal/Solution.cpp)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Data_Structure_I_Day_10_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0084 |[Largest Rectangle in Histogram](src/main/cpp/g0001_0100/s0084_largest_rectangle_in_histogram/Solution.cpp)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Stack, Monotonic_Stack, Big_O_Time_O(n_log_n)_Space_O(log_n) | 89 | 95.11
 | 0079 |[Word Search](src/main/cpp/g0001_0100/s0079_word_search/Solution.cpp)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Matrix, Backtracking, Algorithm_II_Day_11_Recursion_Backtracking, Big_O_Time_O(4^(m\*n))_Space_O(m\*n) | 391 | 63.85
