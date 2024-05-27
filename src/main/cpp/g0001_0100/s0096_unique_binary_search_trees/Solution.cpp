@@ -2,8 +2,6 @@
 // #Dynamic_Programming_I_Day_11 #Big_O_Time_O(n)_Space_O(1)
 // #2024_05_27_Time_0_ms_(100.00%)_Space_7.2_MB_(48.54%)
 
-#include <iostream>
-
 class Solution {
 public:
     int numTrees(int n) {
