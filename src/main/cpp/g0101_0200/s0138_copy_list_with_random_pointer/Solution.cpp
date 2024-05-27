@@ -18,7 +18,7 @@ public:
 };
 */
 class Solution {
-    public:
+public:
     Node* copyRandomList(Node* head) {
         if (head == nullptr) {
             return nullptr;
