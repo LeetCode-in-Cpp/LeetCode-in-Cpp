@@ -10,7 +10,7 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
- class Solution {
+class Solution {
 public:
     bool hasCycle(ListNode* head) {
         if (head == nullptr) {
