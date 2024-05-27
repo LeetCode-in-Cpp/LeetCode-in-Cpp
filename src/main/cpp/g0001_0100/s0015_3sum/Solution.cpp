@@ -2,7 +2,6 @@
 // #Data_Structure_II_Day_1_Array #Algorithm_II_Day_3_Two_Pointers #Udemy_Two_Pointers
 // #Big_O_Time_O(n*log(n))_Space_O(n^2) #2024_05_22_Time_53_ms_(90.17%)_Space_27.2_MB_(64.08%)
 
-#include <iostream>
 #include <vector>
 using namespace std;
 
