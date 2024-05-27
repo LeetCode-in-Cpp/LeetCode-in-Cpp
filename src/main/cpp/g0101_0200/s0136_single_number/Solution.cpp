@@ -6,7 +6,7 @@
 using namespace std;
 
 class Solution {
-    public:
+public:
     int singleNumber(vector<int>& nums) {
         int res = 0;
         for (int num : nums) {
