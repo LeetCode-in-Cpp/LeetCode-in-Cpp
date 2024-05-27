@@ -3,7 +3,7 @@
 // #Big_O_Time_O(N)_Space_O(1) #2024_05_27_Time_9_ms_(47.48%)_Space_10.2_MB_(18.65%)
 
 class Solution {
-    public:
+public:
     ListNode* detectCycle(ListNode* head) {
         if (head == nullptr || head->next == nullptr) {
             return nullptr;
