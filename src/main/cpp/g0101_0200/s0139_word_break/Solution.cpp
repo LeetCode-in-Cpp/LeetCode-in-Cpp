@@ -9,7 +9,7 @@
 using namespace std;
 
 class Solution {
-    public:
+public:
     bool wordBreak(string s, vector<string>& wordDict) {
         unordered_set<string> set;
         int maxLen = 0;
@@ -28,7 +28,7 @@ class Solution {
         return false;
     }
 
-    private:
+private:
     bool dfs(const string& s, int start, int end, int maxLen, unordered_set<string>& set, vector<bool>& flag) {
         if (!flag[end] && set.count(s.substr(start, end - start))) {
             flag[end] = true;
