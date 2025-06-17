@@ -1,6 +1,6 @@
 // #Medium #Top_100_Liked_Questions #Array #Binary_Search #Algorithm_II_Day_2_Binary_Search
-// #Binary_Search_I_Day_12 #Udemy_Binary_Search #Big_O_Time_O(log_N)_Space_O(log_N)
-// #2024_05_27_Time_2_ms_(59.43%)_Space_12.5_MB_(58.76%)
+// #Binary_Search_I_Day_12 #Udemy_Binary_Search #Top_Interview_150_Binary_Search
+// #Big_O_Time_O(log_N)_Space_O(log_N) #2024_05_27_Time_2_ms_(59.43%)_Space_12.5_MB_(58.76%)
 
 #include <vector>
 

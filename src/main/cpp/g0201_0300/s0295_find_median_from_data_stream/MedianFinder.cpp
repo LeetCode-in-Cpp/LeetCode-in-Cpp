@@ -1,5 +1,6 @@
 // #Hard #Top_100_Liked_Questions #Sorting #Two_Pointers #Design #Heap_Priority_Queue #Data_Stream
-// #Big_O_Time_O(n*log_n)_Space_O(n) #2024_05_24_Time_231_ms_(98.67%)_Space_121.7_MB_(55.30%)
+// #Top_Interview_150_Heap #Big_O_Time_O(n*log_n)_Space_O(n)
+// #2024_05_24_Time_231_ms_(98.67%)_Space_121.7_MB_(55.30%)
 
 class MedianFinder {
 public:

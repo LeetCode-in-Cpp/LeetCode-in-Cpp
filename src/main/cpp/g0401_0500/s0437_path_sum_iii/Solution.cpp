@@ -1,5 +1,5 @@
-// #Medium #Depth_First_Search #Tree #Binary_Tree #Level_2_Day_7_Tree #Big_O_Time_O(n)_Space_O(n)
-// #2024_05_22_Time_15_ms_(70.45%)_Space_17.4_MB_(87.83%)
+// #Medium #Depth_First_Search #Tree #Binary_Tree #LeetCode_75_Binary_Tree/DFS #Level_2_Day_7_Tree
+// #Big_O_Time_O(n)_Space_O(n) #2024_05_22_Time_15_ms_(70.45%)_Space_17.4_MB_(87.83%)
 
 #include <cstddef>
 

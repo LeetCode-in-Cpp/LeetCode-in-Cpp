@@ -1,6 +1,6 @@
-// #Easy #Top_100_Liked_Questions #Array #Two_Pointers #Algorithm_I_Day_3_Two_Pointers
-// #Programming_Skills_I_Day_6_Array #Udemy_Arrays #Big_O_Time_O(n)_Space_O(1)
-// #2024_05_24_Time_6_ms_(98.89%)_Space_21.6_MB_(73.28%)
+// #Easy #Top_100_Liked_Questions #Array #Two_Pointers #LeetCode_75_Two_Pointers
+// #Algorithm_I_Day_3_Two_Pointers #Programming_Skills_I_Day_6_Array #Udemy_Arrays
+// #Big_O_Time_O(n)_Space_O(1) #2024_05_24_Time_6_ms_(98.89%)_Space_21.6_MB_(73.28%)
 
 #include <vector>
 

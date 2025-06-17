@@ -1,7 +1,7 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #String #Hash_Table
 // #Dynamic_Programming #Trie #Memoization #Algorithm_II_Day_15_Dynamic_Programming
-// #Dynamic_Programming_I_Day_9 #Udemy_Dynamic_Programming #Big_O_Time_O(M+max*N)_Space_O(M+N+max)
-// #2024_05_27_Time_5_ms_(70.91%)_Space_10.8_MB_(74.12%)
+// #Dynamic_Programming_I_Day_9 #Udemy_Dynamic_Programming #Top_Interview_150_1D_DP
+// #Big_O_Time_O(M+max*N)_Space_O(M+N+max) #2024_05_27_Time_5_ms_(70.91%)_Space_10.8_MB_(74.12%)
 
 #include <string>
 #include <vector>

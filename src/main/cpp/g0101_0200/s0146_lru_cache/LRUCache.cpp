@@ -1,6 +1,6 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Hash_Table #Design #Linked_List
-// #Doubly_Linked_List #Udemy_Linked_List #Big_O_Time_O(1)_Space_O(capacity)
-// #2024_05_27_Time_315_ms_(91.40%)_Space_168.7_MB_(78.28%)
+// #Doubly_Linked_List #Udemy_Linked_List #Top_Interview_150_Linked_List
+// #Big_O_Time_O(1)_Space_O(capacity) #2024_05_27_Time_315_ms_(91.40%)_Space_168.7_MB_(78.28%)
 
 #include <unordered_map>
 
