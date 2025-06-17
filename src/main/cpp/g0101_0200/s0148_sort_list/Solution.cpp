@@ -1,6 +1,6 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Sorting #Two_Pointers #Linked_List
-// #Divide_and_Conquer #Merge_Sort #Level_2_Day_4_Linked_List #Big_O_Time_O(log(N))_Space_O(log(N))
-// #2024_05_27_Time_130_ms_(50.49%)_Space_73.5_MB_(37.52%)
+// #Divide_and_Conquer #Merge_Sort #Level_2_Day_4_Linked_List #Top_Interview_150_Divide_and_Conquer
+// #Big_O_Time_O(log(N))_Space_O(log(N)) #2024_05_27_Time_130_ms_(50.49%)_Space_73.5_MB_(37.52%)
 
 class Solution {
 public:

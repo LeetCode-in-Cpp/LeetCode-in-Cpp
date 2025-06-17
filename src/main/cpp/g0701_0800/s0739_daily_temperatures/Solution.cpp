@@ -1,5 +1,6 @@
-// #Medium #Top_100_Liked_Questions #Array #Stack #Monotonic_Stack #Programming_Skills_II_Day_6
-// #Big_O_Time_O(n)_Space_O(n) #2024_05_21_Time_103_ms_(91.31%)_Space_100.9_MB_(86.96%)
+// #Medium #Top_100_Liked_Questions #Array #Stack #Monotonic_Stack #LeetCode_75_Monotonic_Stack
+// #Programming_Skills_II_Day_6 #Big_O_Time_O(n)_Space_O(n)
+// #2024_05_21_Time_103_ms_(91.31%)_Space_100.9_MB_(86.96%)
 
 #include <vector>
 

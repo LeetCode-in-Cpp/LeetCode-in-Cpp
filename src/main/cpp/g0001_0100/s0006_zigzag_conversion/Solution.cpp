@@ -1,4 +1,5 @@
-// #Medium #String #2024_05_23_Time_3_ms_(97.69%)_Space_10_MB_(97.13%)
+// #Medium #String #Top_Interview_150_Array/String
+// #2024_05_23_Time_3_ms_(97.69%)_Space_10_MB_(97.13%)
 
 #include <string>
 #include <vector>

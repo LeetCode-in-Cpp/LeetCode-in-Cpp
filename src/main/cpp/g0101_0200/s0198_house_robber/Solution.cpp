@@ -1,7 +1,7 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Dynamic_Programming
-// #Algorithm_I_Day_12_Dynamic_Programming #Dynamic_Programming_I_Day_3
-// #Level_2_Day_12_Dynamic_Programming #Udemy_Dynamic_Programming #Big_O_Time_O(n)_Space_O(n)
-// #2024_05_26_Time_2_ms_(40.41%)_Space_9.2_MB_(58.86%)
+// #LeetCode_75_DP/1D #Algorithm_I_Day_12_Dynamic_Programming #Dynamic_Programming_I_Day_3
+// #Level_2_Day_12_Dynamic_Programming #Udemy_Dynamic_Programming #Top_Interview_150_1D_DP
+// #Big_O_Time_O(n)_Space_O(n) #2024_05_26_Time_2_ms_(40.41%)_Space_9.2_MB_(58.86%)
 
 #include <vector>
 #include <algorithm>

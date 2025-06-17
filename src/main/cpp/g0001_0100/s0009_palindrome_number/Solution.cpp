@@ -1,4 +1,5 @@
-// #Easy #Math #Udemy_Integers #2024_05_23_Time_0_ms_(100.00%)_Space_8.2_MB_(48.20%)
+// #Easy #Math #Udemy_Integers #Top_Interview_150_Math
+// #2024_05_23_Time_0_ms_(100.00%)_Space_8.2_MB_(48.20%)
 
 class Solution {
 public:
