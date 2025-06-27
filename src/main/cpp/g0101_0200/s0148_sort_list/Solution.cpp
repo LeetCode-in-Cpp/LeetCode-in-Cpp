@@ -2,6 +2,16 @@
 // #Divide_and_Conquer #Merge_Sort #Level_2_Day_4_Linked_List #Top_Interview_150_Divide_and_Conquer
 // #Big_O_Time_O(log(N))_Space_O(log(N)) #2024_05_27_Time_130_ms_(50.49%)_Space_73.5_MB_(37.52%)
 
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
