@@ -2,6 +2,16 @@
 // #Data_Structure_II_Day_10_Linked_List #Level_1_Day_4_Linked_List #Udemy_Linked_List
 // #Big_O_Time_O(N)_Space_O(1) #2024_05_27_Time_9_ms_(47.48%)_Space_10.2_MB_(18.65%)
 
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     ListNode* detectCycle(ListNode* head) {
